@@ -1,0 +1,5 @@
+
+.vscode/arduino.json
+*.json
+*.ipch
+*.bin
